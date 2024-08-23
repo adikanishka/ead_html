@@ -1,0 +1,32 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* align-content: center; */
+    /* text-align: center; */
+    /* background-color: rgb(58, 80, 107); */
+    height: 0%; 
+    width: 100%;
+    /* background-image: url('https://www.google.com/imgres?q=background%20images%20for%20login%20page&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fgeometric-gradient-technology-background_23-2149110132.jpg%3Fsemt%3Dais_hybrid&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Flogin-background&docid=RbNAc4VWuUc40M&tbnid=FvNI1EBCe2lkDM&vet=12ahUKEwjv7_Ll0ouIAxV-XGwGHbrAIIUQM3oECGcQAA..i&w=626&h=417&hcb=2&ved=2ahUKEwjv7_Ll0ouIAxV-XGwGHbrAIIUQM3oECGcQAA') ; */
+    background-image: url('https://img.freepik.com/premium-vector/geometric-gradient-technology-background_23-2149110132.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 45%;
+    padding-top: 25%;
+    margin: 5px;
+
+}
+.heading{
+    color: rgb(17, 1, 33);
+    font-family: cursive;
+}
+.forms{
+    border: 3px solid rgb(3, 0, 20);
+    border-radius: 0.2cm;
+    width: 30%;
+    background-color: rgb(143, 166, 203); 
+    text-align: center;
+    padding: 5%;
+}
